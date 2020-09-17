@@ -2,11 +2,8 @@
 
 My work on Machine Learning taught by Stanford Professor Andrew Ng. Assignments implemented with Python.
 
-![Stanford Logo](https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2010/09/stanford_logo.jpg?w=370)
-![Stanford Logo](https://olimex.files.wordpress.com/2013/08/machinelearning.jpg)
+HW 1 (Univariate and Multivariate Linear Regression): 100 / 100
 
-HW 1 (Univariate and Multivariate Linear Regression): 100/ 100
-
-HW 2: (Logistic Regresssion): 100/ 100
+HW 2: (Logistic Regresssion): 100 / 100
 
 
