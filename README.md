@@ -1,6 +1,6 @@
 # My Machine Learning Learnings
 
-# Stanford-Machine-Learning-Class
+# Stanford-Machine-Learning-Class (2020)
 
 My work on Machine Learning taught by Stanford Professor Andrew Ng. Assignments implemented with Python.
 
