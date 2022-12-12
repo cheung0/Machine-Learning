@@ -1,4 +1,4 @@
-# My Artificial Intelligence Learnings
+# Some of my Artificial Intelligence Learnings
 
 # Stanford-Machine-Learning-Class (2020)
 
