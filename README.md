@@ -7,8 +7,8 @@ Labs Implemented:
 2. Neural Networks for Handwritten Digit Recognition, Multiclass
 3. Advice for Applying Machine Learning 
 
-For fun labs:
-Cofee roasting and Machine Learning: My two favorite things!
+For fun lab:
+Cofee roasting and Machine Learning
 
 # Stanford-Machine-Learning-Class (2020)
 
