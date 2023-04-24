@@ -4,6 +4,7 @@ Labs Implemented:
 1. Neural Networks for Handwritten Digit Recognition, Binary
 2. Neural Networks for Handwritten Digit Recognition, Multiclass
 3. Advice for Applying Machine Learning 
+4. Decision Trees
 
 For fun lab:
 Predicting optimal coffee roasts with Tensorflow
