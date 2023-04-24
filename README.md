@@ -14,6 +14,7 @@ Courses complemented:
 2. Advanced Learning Algorithms
 
 Certificate:
+
 https://www.coursera.org/account/accomplishments/verify/KX6DWGYE8SQU 
 https://www.coursera.org/account/accomplishments/verify/DHL6AJVPVSTN  
 
