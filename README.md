@@ -8,7 +8,7 @@ Labs Implemented:
 3. Advice for Applying Machine Learning 
 
 For fun lab:
-Cofee roasting and Machine Learning
+Predicting optimal coffee roasts with Tensorflow
 
 # Stanford-Machine-Learning-Class (2020)
 
