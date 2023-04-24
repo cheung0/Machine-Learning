@@ -1,5 +1,3 @@
-# Some of my Learnings
-
 # Stanford-Coursera-Machine-Learning-Class (2023)
 
 Labs Implemented:
