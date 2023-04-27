@@ -9,6 +9,9 @@ Labs implemented:
 For fun lab:
 Predicting optimal coffee roasts with Tensorflow
 
+Not as much fun lab:
+Predicting heart failure with Tensorflow
+
 Courses complemented:
 1. Supervised Machine Learning: Regression and Classification
 2. Advanced Learning Algorithms
