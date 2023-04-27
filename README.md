@@ -7,10 +7,10 @@ Labs implemented:
 4. Decision Trees
 
 For fun lab:
-Predicting optimal coffee roasts 
+Predicting Optimal Coffee Roasts 
 
 Not as much fun lab:
-Predicting heart disease 
+Predicting Heart Disease 
 
 ## Courses complemented:
 
