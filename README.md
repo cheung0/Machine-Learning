@@ -22,9 +22,5 @@ Certificates:
 https://www.coursera.org/account/accomplishments/verify/KX6DWGYE8SQU 
 https://www.coursera.org/account/accomplishments/verify/DHL6AJVPVSTN  
 
-## Machine Learning (2020)
-
-Linear Regression and Logistic Regresssion
-
 ## My Review of the Class
 
