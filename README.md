@@ -7,10 +7,10 @@ Labs implemented:
 4. Decision Trees
 
 For fun lab:
-Predicting optimal coffee roasts with Tensorflow
+Predicting optimal coffee roasts 
 
 Not as much fun lab:
-Predicting heart disease with Tensorflow
+Predicting heart disease 
 
 
 Courses complemented:
@@ -27,5 +27,8 @@ https://www.coursera.org/account/accomplishments/verify/DHL6AJVPVSTN
 My work on Machine Learning taught by Stanford Professor Andrew Ng. Assignments implemented with Python.
 
 Linear Regression and Logistic Regresssion
+
+## My Review of the Class
+Professor Andrew Ng is amazing. His charisma and technical skills makes him one of the best to teach Machine Learning. 
 
 
