@@ -10,7 +10,7 @@ For fun lab:
 Predicting optimal coffee roasts with Tensorflow
 
 Not as much fun lab:
-Predicting heart failure with Tensorflow
+Predicting heart disease with Tensorflow
 
 
 Courses complemented:
