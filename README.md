@@ -26,6 +26,8 @@ https://www.coursera.org/account/accomplishments/verify/DHL6AJVPVSTN
 
 ## Additional resources:
 
-https://stanford.edu/~shervine/teaching/cs-221/ 
+https://stanford.edu/~shervine/teaching/cs-221
+
 https://cs229.stanford.edu/main_notes.pdf 
+
 https://cs229.stanford.edu/section/cs229_python_tutorial/cs229_python_friday.pdf
