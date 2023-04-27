@@ -22,5 +22,3 @@ Certificates:
 https://www.coursera.org/account/accomplishments/verify/KX6DWGYE8SQU 
 https://www.coursera.org/account/accomplishments/verify/DHL6AJVPVSTN  
 
-## My Review of the Class
-
