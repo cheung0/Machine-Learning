@@ -17,6 +17,8 @@ Predicting Heart Disease
 1. Supervised Machine Learning: Regression and Classification
 2. Advanced Learning Algorithms
 
+https://www.coursera.org/specializations/machine-learning-introduction 
+
 Certificates:
 
 https://www.coursera.org/account/accomplishments/verify/KX6DWGYE8SQU 
