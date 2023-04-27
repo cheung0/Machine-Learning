@@ -22,13 +22,11 @@ Certificates:
 https://www.coursera.org/account/accomplishments/verify/KX6DWGYE8SQU 
 https://www.coursera.org/account/accomplishments/verify/DHL6AJVPVSTN  
 
-# Stanford-Machine-Learning-Class (2020)
+## Stanford-Machine-Learning-Class (2020)
 
 My work on Machine Learning taught by Stanford Professor Andrew Ng. Assignments implemented with Python.
 
 Linear Regression and Logistic Regresssion
 
 ## My Review of the Class
-Professor Andrew Ng is amazing. His charisma and technical skills makes him one of the best to teach Machine Learning. 
-
 
