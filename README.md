@@ -1,10 +1,9 @@
 # Stanford Coursera Machine Learning 
 
 Labs implemented:
-1. Neural Networks for Handwritten Digit Recognition, Binary
-2. Neural Networks for Handwritten Digit Recognition, Multiclass
-3. Advice for Applying Machine Learning 
-4. Decision Trees
+1. Neural Networks for Handwritten Digit Recognition, Binary and Multiclass
+2. Advice for Applying Machine Learning 
+3. Decision Trees
 
 For fun lab:
 Predicting Optimal Coffee Roasts 
