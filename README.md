@@ -11,6 +11,10 @@ Predicting Optimal Coffee Roasts
 Not as much fun lab:
 Predicting Heart Disease 
 
+## Personal Projects
+
+1. Predicting Air Quality
+
 ## Courses complemented:
 
 1. Supervised Machine Learning: Regression and Classification
