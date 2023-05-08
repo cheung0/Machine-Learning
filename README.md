@@ -13,7 +13,7 @@ Predicting Heart Disease
 
 ## Personal Projects
 
-1. Predicting Air Quality
+1. Predicting Air Quality.
 I collected air quality data from sensors near my home. Then, I trained a machine learning model with Tensorflow to predict the air quality based on the day of the week. I noticed that your guess and my guess is as good as the machine learning model's guess. Which is to say that my model currently doesn't work 😂.
 
 ## Courses complemented:
