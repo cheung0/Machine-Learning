@@ -15,7 +15,7 @@ Predicting Heart Disease
 
 Predicting Air Quality. Actually more like analyzing air quality, since the weather forecast is lot better than my model.
 Intro:
-We all have fundamental needs, such as food, water, love, and clean air. I wanted to analyze air quality in the Bay Area (2023). Here are some practical takeaways from my findings: Air quality is better on weekends. Therefore, you might want to open your windows for fresh air on Saturdays and Sundays. 
+We all have fundamental needs, such as food, water, love, and clean air. I wanted to analyze air quality in the Bay Area (2023). Practical takeaway from my findings: #air quality is better on weekends. Therefore, you might want to open your windows for fresh air on Saturdays and Sundays. 
 
 Summary:
 I analyzed 1432 data samples from air quality sensor data around the Bay Area during 2023. Some factors that play a role in air quality include: traffic, industrial activity, and environmental factors. For Alameda County specifically, the average AQI for weekends was 23 and the average for weekdays 23.6. My sample size wasn't big enough, so I analyzed again with data from counties: Alameda, Santa Clara, SF, San Mateo, Contra Costa. The average AQI for weekends was 22.93 and the average for weekdays 23.07. Again, a small difference appears, but if you use this knowledge and apply it over the span of thousands of days, it can make a big difference in your health and well being.
