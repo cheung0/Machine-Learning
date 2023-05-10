@@ -13,8 +13,15 @@ Predicting Heart Disease
 
 ## Personal Projects
 
-1. Predicting Air Quality.
-I collected air quality data from sensors near my home. Then, I trained a machine learning model to predict air quality. I noticed that your guess and my guess is pretty much as good as the machine learning model's guess. Which is to say that my model currently doesn't work 😂.
+1. Predicting Air Quality. Actually more like analyzing air quality, since the weather forecast is lot better than my model.
+Intro:
+We all have fundamental needs, such as food, water, love, and clean air. I wanted to analyze air quality in the Bay Area (2023). Here are some practical takeaways from my findings: Air quality is better on weekends. Therefore, you might want to open your windows for fresh air on Saturdays and Sundays. 
+
+Summary:
+I analyzed 1432 data samples from air quality sensor data around the Bay Area during 2023. Some factors that play a role in air quality include: traffic, industrial activity, and environmental factors. For Alameda County specifically, the average AQI for weekends was 23 and the average for weekdays 23.6. My sample size wasn't big enough, so I analyzed again with data from counties: Alameda, Santa Clara, SF, San Mateo, Contra Costa. The average AQI for weekends was 22.93 and the average for weekdays 23.07. Again, a small difference appears, but if you use this knowledge and apply it over the span of thousands of days, it can make a big difference in your health and well being.
+
+Conclusion: 
+The small, individual actions of each and every single one of us can cause big, large actions in the environment. I acknowledge that I might be wrong about the increased traffic on weekdays and analysis and my data from the US EPA gov website does attach a disclaimer that some data may be inaccurate.
 
 ## Courses complemented:
 
