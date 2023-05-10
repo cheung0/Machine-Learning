@@ -13,7 +13,7 @@ Predicting Heart Disease
 
 ## Personal Projects
 
-1. Predicting Air Quality. Actually more like analyzing air quality, since the weather forecast is lot better than my model.
+Predicting Air Quality. Actually more like analyzing air quality, since the weather forecast is lot better than my model.
 Intro:
 We all have fundamental needs, such as food, water, love, and clean air. I wanted to analyze air quality in the Bay Area (2023). Here are some practical takeaways from my findings: Air quality is better on weekends. Therefore, you might want to open your windows for fresh air on Saturdays and Sundays. 
 
