@@ -23,8 +23,6 @@ Certificates:
 https://www.coursera.org/account/accomplishments/verify/KX6DWGYE8SQU 
 https://www.coursera.org/account/accomplishments/verify/DHL6AJVPVSTN  
 
-![Michael Cheung1 - Intro to Machine Learning](https://github.com/cheung0/Machine-Learning/assets/56772737/f1ba2201-d238-485d-8eda-3dd1100268cd)
-
 ## Additional resources:
 
 https://stanford.edu/~shervine/teaching/cs-221
@@ -34,3 +32,4 @@ https://cs229.stanford.edu/main_notes.pdf
 https://cs229.stanford.edu/section/cs229_python_tutorial/cs229_python_friday.pdf
 https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9
 
+https://www.kaggle.com/learn/intro-to-machine-learning
