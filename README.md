@@ -32,4 +32,4 @@ https://cs229.stanford.edu/main_notes.pdf
 https://cs229.stanford.edu/section/cs229_python_tutorial/cs229_python_friday.pdf
 https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9
 
-https://www.kaggle.com/learn/intro-to-machine-learning (completed with certificate)
+https://www.kaggle.com/learn/intro-to-machine-learning 
