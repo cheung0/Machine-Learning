@@ -1,5 +1,7 @@
 # Stanford Coursera Machine Learning 
 
+Created tutorial videos with 2500+ views.
+
 Labs implemented:
 1. Neural Networks for Handwritten Digit Recognition, Binary and Multiclass
 2. Advice for Applying Machine Learning 
